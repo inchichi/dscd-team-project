@@ -4,4 +4,4 @@
 
 | Name | Student ID | GitHub URL |
 |------|------------|------------|
-| Yangchan | 22000415 | [yc0153](https://github.com/yc0153) |
+| Yangchan | 22000415 | [https://github.com/yc0153](https://github.com/yc0153) |
